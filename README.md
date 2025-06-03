@@ -1,55 +1,58 @@
-# 🌟 MyBrand - Responsive Landing Page
+# Responsive Landing Page
 
-## 👋 Overview
+## Description
 
-This is a clean, responsive landing page built using just HTML and CSS. It includes everything a modern webpage should have — a smooth layout, an animated hero section, a login/register form, and full mobile responsiveness. It's simple, elegant, and a great starting point for anyone learning front-end development.
+A modern, responsive landing page built with HTML5 and CSS3. It features:
 
-## 🔧 What’s Inside
+- A sticky header with a logo and navigation links
+- An animated hero section with a call-to-action button
+- Feature, Contact, and Get Started sections
+- A footer with social media links
+- Responsive design that adapts to different screen sizes
 
-- A sticky header with logo and navigation links
-- A vibrant hero section with background animation and a brief welcome message
-- A built-in **login form** with "Register here" option
-- An **About Us** section describing the brand's mission
-- A **Features** section showcasing key highlights
-- A **Contact** section with email and phone info
-- A stylish **footer** with social media links
-- Fully responsive layout — looks great on both desktop and mobile screens
+## Technologies Used
 
-## 🛠 Tech Stack
+- HTML5
+- CSS3 (Flexbox, Media Queries, Keyframe Animations)
 
-- **HTML5**
-- **CSS3**
-  - Flexbox for layout
-  - Media queries for responsiveness
-  - CSS animations for background effect
+## Features
 
-## 🚀 How to Use
+- Fully responsive layout for desktop and mobile devices
+- Gradient animated background in the hero section
+- Hover effects for interactive navigation
+- Smooth visual experience with mobile-first adjustments
 
-1. Download or clone the repository
-2. Open the folder in VS Code
-3. Right-click on `index.html` and choose **"Open with Live Server"**
-4. Resize your browser or open DevTools to see how the layout adjusts to mobile screens
+## How to Run
 
-## 📸 Screenshots
+1. Clone the repository or download the ZIP file.
+2. Open `index.html` in your preferred browser using Live Server or just double-click.
+3. Resize the browser or open DevTools to view the mobile responsiveness.
+
+## Screenshots
 
 ### Desktop View
 
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop View](screenshots/desktop-view.png)
 
 ### Mobile View
 
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile View](screenshots/mobile-view.png)
 
-## 📁 Folder Structure
+## Tasks Completed
 
-## 🙋 About Me
+✅ Task 1: Responsive Landing Page with clean design and gradient hero section.  
+✅ Task 4: Converted layout to be mobile-friendly using CSS media queries.
 
-Hi! I'm **Tejaswini**, a passionate front-end developer always curious to build beautiful and functional web pages. This project was completed as part of a web development internship task to practice real-world layout building and responsive design.
+## Outcome
 
-📬 Email: [pedditejaswini23@gmail.com](mailto:pedditejaswini23@gmail.com)  
-💻 GitHub: [@teju-sharma](https://github.com/teju-sharma)
+Gained practical knowledge of responsive design, layout structuring, media queries, and styling components for both desktop and mobile environments.
 
----
+## Deployment
 
-Thanks for checking out this project! 😊  
-Feel free to fork it, use it, or build on top of it for your own learning or portfolio.
+This website is live at: [https://yourusername.github.io](https://yourusername.github.io)
+
+Deployed using GitHub Pages by following these steps:
+
+- Created a GitHub repo named `yourusername.github.io`
+- Pushed all static site files to the `main` branch
+- Enabled GitHub Pages under repository settings
